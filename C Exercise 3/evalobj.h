@@ -2,7 +2,6 @@ using namespace std;
 
 #include<string>
 
-
 struct env {
     string var;
     int value;
